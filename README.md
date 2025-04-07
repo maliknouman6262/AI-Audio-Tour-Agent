@@ -1,3 +1,9 @@
+##  **Developed By** `Muhammad Nouman` 
+## Contact Information
+- **Email**: maliknouman6262@gmail.com
+- **Phone Number**: +923086338740
+
+  
 # 🎧 Self-Guided AI Audio Tour Agent
 
 A conversational voice agent system that generates immersive, self-guided audio tours based on the user’s **location**, **areas of interest**, and **tour duration**. Built on a multi-agent architecture using OpenAI Agents SDK, real-time information retrieval, and expressive TTS for natural speech output.
